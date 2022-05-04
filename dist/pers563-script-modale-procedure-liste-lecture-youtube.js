@@ -2,7 +2,7 @@ const pers563modaleRootDiv = document.getElementById('pers563-root-modale-proced
 
 pers563modaleRootDiv.innerHTML = 
 `
-<a href="javascript:;" id="pers563-trigger-modale-procedure-lly"
+<a href="javascript:;" role="button" id="pers563-trigger-modale-procedure-lly"
         >Comment utiliser l'interface</a
       >
       <style type="text/css">
