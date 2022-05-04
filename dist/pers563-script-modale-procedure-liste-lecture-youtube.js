@@ -75,8 +75,8 @@ pers563modaleRootDiv.innerHTML =
             <ol>
               <li>
                 <h3>
-                  1) Vous pouvez choisir la vidéo désirer en accédant à la liste
-                  de lecture via le bouton en haut à droite(1):
+                  1) Vous pouvez choisir la vidéo désirée en accédant à la liste
+                  de lecture via le bouton en haut à droite:
                 </h3>
                 <img
                   alt="Capture d'écran avec une flèche pointant sur le menu de la liste de lecture en haut à droite"
@@ -86,7 +86,7 @@ pers563modaleRootDiv.innerHTML =
               <li>
                 <h3>
                   2) Vous pourrez ainsi choisir la vidéo désirée en cliquant
-                  dessus (2):
+                  dessus:
                 </h3>
                 <img
                   alt="Capture d'écran avec une flèche pointant sur le deuxième choix de la liste de lecture"
@@ -96,7 +96,7 @@ pers563modaleRootDiv.innerHTML =
               <li>
                 <h3>
                   3) Vous pouvez passer à la vidéo suivante via les boutons de
-                  lecture ou le raccourci clavier Shift + N (3):
+                  lecture ou le raccourci clavier Shift + N:
                 </h3>
                 <img
                   alt="Capture d'écran avec deux fleches pointant sur les bouton de passer à la vidéo suivante et montrant le raccourci Shift+N"
@@ -105,9 +105,9 @@ pers563modaleRootDiv.innerHTML =
               </li>
               <li>
                 <h3>
-                  4) Si vous regarder les vidéos sur YouTube, la liste de
-                  lecture sera à droite (4) et les documents reliés à la vidéos
-                  seront dans la description en dessous (5):
+                  4-5) Si vous regardez les vidéos sur YouTube, la liste de
+                  lecture sera à droite et les documents reliés à la vidéo
+                  seront dans la description en dessous:
                 </h3>
                 <img
                   alt="Capture d'écran sur l'interface de YouTube montrant la liste de lecture à droite et les liens des documents en bas"
