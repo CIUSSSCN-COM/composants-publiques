@@ -3,7 +3,7 @@ const pers563modaleRootDiv = document.getElementById('pers563-root-modale-proced
 pers563modaleRootDiv.innerHTML = 
 `
 <a href="javascript:;" id="pers563-trigger-modale-procedure-lly"
-        >Comment utiliser une l'interface</a
+        >Comment utiliser l'interface</a
       >
       <style type="text/css">
         #pers563-modale-procedure-lly {
